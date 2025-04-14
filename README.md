@@ -4,56 +4,51 @@ A custom mini virtual pinball cabinet based on the excellent design by [@phoenix
 
 ![Mini Visual Pinball](img/goonies-mini-1.jpg) 
 
----
+## Software
 
-## 🖥️ Software
+### Batocera.linux 42 Beta
+  - Multiple monitor support
+  - External DMD support
+  - Built in backglass theme
+  - EmulationStation frontend
+  - Visual Pinball Standalone 10.8.0
+  - [Website](https://batocera.org/), [Beta](https://mirrors.o2switch.fr/batocera/x86_64/butterfly/last/)
 
-- **OS**: Batocera.linux 42 Beta
-- **Frontend**: Visual Pinball Standalone 10.8.0  
-  - ✅ Multiple monitor support  
-  - ✅ External DMD support  
-  - ✅ Built in backglass theme
+## Hardware
 
----
-
-## 🧰 Hardware
-
-### 💻 Mini PC
-
-- **Model**: GMKtec Mini PC N97 G5  
-- **Specs**:
+### Mini PC
+  - GMKtec Mini PC N97 G5
   - Intel 12th Gen Alder Lake N97 (up to 3.60GHz)
   - 12GB DDR5 RAM  
-  - 256GB SSD  
-- [Amazon Link](https://www.amazon.com/dp/B09Q8Z6VB7)
+  - 256GB SSD
+  - [Amazon](https://www.amazon.com/dp/B09Q8Z6VB7)
 
-### 🖼️ Displays
+### Backglass
+  - 3.5" LCD (LQ035NC111)
+  - [AliExpress](https://www.aliexpress.us/item/3256807921740051.html)
 
-- **Backglass**: 3.5" LCD (LQ035NC111)  
-  - [AliExpress Link](https://www.aliexpress.us/item/3256807921740051.html)
+### Playfield
+  - 6" 2K LCD (LS060R1SX01)
+  - [AliExpress](https://www.aliexpress.us/item/3256806044020274.html)
 
-- **Playfield**: 6" 2K LCD (LS060R1SX01)  
-  - [AliExpress Link](https://www.aliexpress.us/item/3256806044020274.html)
+### Controls
+  - XinMo XM-08 Joystick Encoder
+  - [AliExpress](https://www.aliexpress.us/item/3256806433097325.html), [Site](http://www.xin-mo.com/single_player.html)
 
-### 🎮 Controls
+### Audio
+  - PAM8406 5Wx2 Digital Amp
+  - [Amazon](https://www.amazon.com/dp/B0BG2BWGMT)
+  - 3W 8Ω Full-Range Mini Speakers
+  - [Amazon](https://www.amazon.com/dp/B0BWYBFPW8)
 
-- **Joystick Encoder**: XinMo XM8 USB  
-  - [AliExpress Link](https://www.aliexpress.us/item/3256806433097325.html)
+### Decals
+  - Glossy Printable Vinyl Sticker Paper
+  - [Amazon](https://www.amazon.com/dp/B0CZQNGS4F)
 
-### 🔊 Audio
+## Modifications
 
-- **Amplifier**: PAM8406 5Wx2 Digital Amp  
-  - [Amazon Link](https://www.amazon.com/dp/B0BG2BWGMT)
-
-- **Speakers**: 3W 8Ω Full-Range Mini Speaker  
-  - [Amazon Link](https://www.amazon.com/dp/B0BWYBFPW8)
-
----
-
-## 🛠️ Modifications
-
-- **Backbox**:
-  - Increased height by **3mm** for amp + speaker clearance
+### Backbox
+  - Increased depth by **3mm** for amp + speaker clearance
   - Modified rear panel:
     - Speaker grill
     - Recessed speaker mounts
@@ -62,16 +57,14 @@ A custom mini virtual pinball cabinet based on the excellent design by [@phoenix
 ![Backbox Cover 1](img/goonies-mini-2.jpg)
 ![Backbox Cover 2](img/goonies-mini-3.jpg)
 
-- **Cabinet**:
+### Cabinet
   - Mounting support for XinMo USB encoder
   - Mounting holes for backbox brackets
 
 ![Cabinet Side 1](img/goonies-mini-4.jpg)
 ![Cabinet Side 2](img/goonies-mini-5.jpg)
 
----
-
-## 🎨 Cabinet Artwork
+## Cabinet Art
 
 The cabinet artwork was based on **Stuzza 12's** original art used in **VPW's "Goonies Never Say Die"** table.  
 
@@ -79,8 +72,7 @@ Using **Inkscape**, a mask was created that overlaid a portion of the cabinet ST
 
 ![Inkscape](img/goonies-mini-6.jpg)
 
-The final design was printed on **Glossy Printable Vinyl Sticker Paper**:  
-[Amazon Link](https://www.amazon.com/dp/B0CZQNGS4F)
+![Inkscape](img/goonies-mini-8.gif)
 
 Artwork was cut and applied using a **Cricut**, allowing for precise, clean decal placement on the cabinet.
 
@@ -90,6 +82,9 @@ I also printed some Visual Pinball swag, based on the logo svg [here](https://gi
 
 ![Cricut 2](img/goonies-mini-8.jpg)
 
-## 📸 Credits
+## Credits
 
 - Original design: [@phoenixfox](https://makerworld.com/en/models/671966-2-screen-working-mini-virtual-pinball#profileId-599764)
+
+- Sample artwork: [@stuzza12](https://www.vpforums.org/index.php?showtopic=26497&p=501770)
+
